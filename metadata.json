@@ -1,0 +1,6 @@
+{
+  "name": "Smart Charging Checker",
+  "description": "Smart Charging Checker with real-time Ampere gauge, smart voice alerts, Urdu and English bilingual support, battery diagnostics, and cable guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
